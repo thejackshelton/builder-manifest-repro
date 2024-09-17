@@ -1,6 +1,6 @@
 # Problem:
 
-The editor does not update when directly consuming from the Qwik UI headless library. (potentially any Qwik library)
+The editor does not update when directly consuming from the Qwik UI headless library into the Builder component registry. (potentially any Qwik library)
 
 ## Reproduction Steps:
 
