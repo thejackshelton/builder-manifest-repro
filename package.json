@@ -38,6 +38,7 @@
     "@typescript-eslint/parser": "7.16.1",
     "eslint": "8.57.0",
     "eslint-plugin-qwik": "^1.8.0",
+    "my-qwik-library-name": "https://pkg.pr.new/thejackshelton/new-qwik-lib/my-qwik-library-name@1",
     "prettier": "3.3.3",
     "typescript": "5.4.5",
     "undici": "*",
